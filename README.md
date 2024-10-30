@@ -9,7 +9,8 @@ Para configurar o ambiente localmente, siga estes passos:
 ##Clone o repositório:
 
 git clone [https://github.com/FilipeSall/Partidos-politicos-no-Brasil.git]
-Instale as dependências:
+
+##Instale as dependências:
 
 npm install
 Inicie o ambiente de desenvolvimento:
