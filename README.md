@@ -1,5 +1,5 @@
 # Partidos politicos
-Este projeto foi desenvolvido utilizando React para oferecer uma experiência de teste rápida e eficiente.
+Fiz o desafio usando o React para concluir mais rápido (como mostra as gravações).
 
 ##Estrutura do Projeto
 Todos os arquivos de código-fonte estão organizados na pasta src.
