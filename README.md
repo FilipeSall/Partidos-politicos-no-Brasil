@@ -1,5 +1,5 @@
 # Partidos politicos
-Completei o desafio usando o React para concluir mais rápido (como mostra as gravação).
+Completei o desafio usando o React para concluir mais rápido (como mostra a gravação).
 
 ## Estrutura do Projeto
 Todos os arquivos de código-fonte estão organizados na pasta src.
